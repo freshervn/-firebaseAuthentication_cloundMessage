@@ -1,0 +1,23 @@
+{
+  "name": "-firebaseauthentication_cloundmessage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freshervn/-firebaseAuthentication_cloundMessage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freshervn/-firebaseAuthentication_cloundMessage/issues"
+  },
+  "homepage": "https://github.com/freshervn/-firebaseAuthentication_cloundMessage#readme",
+  "dependencies": {
+    "firebase": "^9.21.0"
+  }
+}
